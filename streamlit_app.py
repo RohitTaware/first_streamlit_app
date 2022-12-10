@@ -1,7 +1,6 @@
 import streamlit
 
-streamlit.title("My MOM's Healthy Dinner")
-streamlit.header("Breakfast Menu")
+streamlit.title("Breakfast Favorites")
 streamlit.text("🥣 Omega 3 & Blueberry Oatmeal")
 streamlit.text("🥗 kale, Spinach & Rocket Smoothie")
 streamlit.text("🐔 Hard Boiled Free-Range Egg")
